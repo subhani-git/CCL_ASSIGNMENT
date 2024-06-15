@@ -64,7 +64,3 @@ This project outlines a serverless application designed to monitor and retrieve 
 
 ## Significance of Testing
 Testing ensures the application meets design specifications and operates reliably. Integrating these tests into a CI/CD pipeline ensures continuous validation of functionality and performance.
-
----
-
-This README provides an overview of the serverless exchange rate tracking application, detailing the architecture, deployment steps, and operational guidelines.
